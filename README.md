@@ -10,10 +10,9 @@
 
 I'm a developer with a strong interest in building end-to-end applications — from clean frontend interfaces to scalable backend logic. Currently exploring better ways to structure and automate systems through real-world projects.
 
-- 🔧 Currently building tools to automate workflows and dashboards for soccer fans
-- 🌱 Learning more about system design, DevOps basics, and TypeScript best practices
+- ☁️ Dipping deeper into cloud services like AWS and Firebase — aiming to make apps that scale and survive the real world
 - 📌 Looking for **Fullstack/Software Development internships** (Summer/Fall 2025)
-- 📫 Reach me at: **talinbansal@domain.com** *(replace with your real email)*
+- 📫 Reach me at: **tbansal@uwaterloo.ca**
 
 ---
 
