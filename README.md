@@ -42,24 +42,6 @@ Here are a few projects I'm proud of:
 
 ---
 
-### 📈 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talinbansal&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talinbansal&theme=radical" width="400"/>
-</p>
-
----
-
-### 💬 Let's Connect
-
-I'm open to connecting with like-minded developers, mentors, and hiring teams!
-
-- LinkedIn: [linkedin.com/in/talinbansal](https://linkedin.com/in/talinbansal)
-- GitHub: [@talinbansal](https://github.com/talinbansal)
-
----
-
 <!--
 **talinbansal/talinbansal** is a ✨ GitHub profile README ✨. This file appears on your profile at https://github.com/talinbansal.
 -->
