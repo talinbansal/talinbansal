@@ -35,10 +35,13 @@ Here are a few projects I'm proud of:
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` • `JavaScript` • `TypeScript` • `HTML/CSS` • `SQL`
+`Python` • `PHP` •`JavaScript` • `TypeScript` • `HTML/CSS` • `SQL` • `Bash` 
 
 **Frameworks/Tools:**  
-`React` • `Node.js` • `Express` • `Flask` • `MySQL` • `Git` • `Docker (learning)`
+`React` • `Node.js` • `Express.js` • `Flask` • `Django` • `Bootstrap` • `Tailwind CSS`
+
+**Databases:**  
+`MySQL` • `SQLite` 
 
 ---
 
