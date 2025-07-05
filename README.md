@@ -8,10 +8,10 @@
 
 ### 🔍 About Me
 
-I'm a developer with a strong interest in building end-to-end applications — from clean frontend interfaces to scalable backend logic. Currently exploring better ways to structure and automate systems through real-world projects.
+I'm a developer with a strong interest in building end-to-end applications, from clean frontend interfaces to scalable backend logic. Currently exploring better ways to structure and automate systems through real-world projects.
 
-- ☁️ Dipping deeper into cloud services like AWS and Firebase — aiming to make apps that scale and survive the real world
-- 📌 Looking for **Fullstack/Software Development internships** (Summer/Fall 2025)
+- ☁️ Dipping deeper into cloud services like AWS and Firebase, aiming to make apps that scale and survive the real world
+- 📌 Looking for **Fullstack/Software Development internships** (Fall 2025)
 - 📫 Reach me at: **tbansal@uwaterloo.ca**
 
 ---
@@ -21,7 +21,7 @@ I'm a developer with a strong interest in building end-to-end applications — f
 Here are a few projects I'm proud of:
 
 - 🔁 **[Automated File Organizer Monitor](https://github.com/talinbansal/Automated-File-Organizer-Monitor)**  
-  A Python desktop utility that auto-sorts files based on type and folder rules — ideal for productivity junkies.
+  A Python desktop utility that auto-sorts files based on type and folder rules. This is ideal for productivity junkies.
   
 - ✅ **[Task Manager](https://github.com/talinbansal/task-manager)**  
   Built with TypeScript — a clean and functional task-tracking web app with a modern UI.
