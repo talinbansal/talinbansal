@@ -24,7 +24,7 @@ Here are a few projects I'm proud of:
   A Python desktop utility that auto-sorts files based on type and folder rules. This is ideal for productivity junkies.
   
 - ✅ **[Task Manager](https://github.com/talinbansal/task-manager)**  
-  Built with TypeScript — a clean and functional task-tracking web app with a modern UI.
+  Built with TypeScript, a clean and functional task-tracking web app with a modern UI.
 
 - ⚽ **[Soccer Fan Dashboard](https://github.com/talinbansal/Soccer-Fan-Dashboard)**  
   Real-time stats and game tracking for fans using JavaScript and live APIs.
