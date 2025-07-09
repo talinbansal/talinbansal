@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Talin Bansal 👋</h1>
+<h1 align="center">Hi, I'm Talin Bansal </h1>
 
 <p align="center">
   Aspiring Fullstack Developer | Passionate About Building Real-World Tools | Python • JavaScript • TypeScript
