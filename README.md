@@ -11,7 +11,7 @@
 I'm a developer with a strong interest in building end-to-end applications, from clean frontend interfaces to scalable backend logic. Currently exploring better ways to structure and automate systems through real-world projects.
 
 - ☁️ Dipping deeper into cloud services like AWS and Firebase, aiming to make apps that scale and survive the real world
-- 📌 Looking for **Fullstack/Software Development internships** (Fall 2025)
+- 📌 Looking for **Fullstack/Software Development internships** (Summer 2026)
 - 📫 Reach me at: **tbansal@uwaterloo.ca**
 
 ---
