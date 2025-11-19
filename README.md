@@ -45,7 +45,7 @@ Here are a few projects I'm proud of:
 **Databases:**  
 `MySQL` • `SQLite` • `PostgreSQL`• `Git`
 
-**AI & Cloud Technologies:**
+**AI & Cloud Technologies:**                                                                                                                                                                  
 `AWS` • `FAISS` • `Hugging Face Transformers` • `Sentence Transformers` • `Render` • `Railway`
 
 ---
