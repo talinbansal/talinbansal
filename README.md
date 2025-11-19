@@ -40,10 +40,10 @@ Here are a few projects I'm proud of:
 `Python` • `PHP` •`JavaScript` • `TypeScript` • `HTML/CSS` • `SQL` • `Bash` 
 
 **Frameworks/Tools:**  
-`React` • `Node.js` • `Express.js` • `Flask` • `Django` • `Bootstrap` • `Tailwind CSS`
+`React` • `Node.js` • `Express.js` • `Flask` • `Django` • `FastAPI` • `Bootstrap` • `Tailwind CSS`
 
 **Databases:**  
-`MySQL` • `SQLite` 
+`MySQL` • `SQLite` • `PostgreSQL`
 
 ---
 
