@@ -20,7 +20,7 @@ I'm a developer with a strong interest in building end-to-end applications, from
 
 Here are a few projects I'm proud of:
 
-- 🍿 [PopcornPick – AI Movie Recommendation App](https://github.com/talinbansal/Movie-Recommender)
+- 🍿 [PopcornPick – AI Movie Recommendation App](https://github.com/talinbansal/Movie-Recommender)                                                                                           
   A full-stack movie discovery platform that uses semantic embeddings and FAISS vector search to recommend similar films. Features user authentication, watchlists, ratings, and a modern React +    TypeScript UI, deployed with FastAPI and PostgreSQL on Render.
 
 - 🔁 **[Automated File Organizer Monitor](https://github.com/talinbansal/Automated-File-Organizer-Monitor)**  
