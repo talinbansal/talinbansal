@@ -4,6 +4,10 @@
   Aspiring Fullstack Developer | Passionate About Building Real-World Tools | Python • React • TypeScript
 </p>
 
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/talinbansal23?theme=dark&font=baloo&extension=null" />
+</p>
+
 ---
 
 ### 🔍 About Me
@@ -44,8 +48,6 @@ Here are a few projects I'm proud of:
 
 **Databases:**  
 `MySQL` • `SQLite` • `PostgreSQL`• `Git`
-
-![LeetCode Stats](https://leetcode.card.workers.dev/talinbansal23?theme=dark&font=baloo&extension=null)
 
 **AI & Cloud Technologies:**                                                                                                                                                                  
 `AWS` • `FAISS` • `Hugging Face Transformers` • `Sentence Transformers` • `Render` • `Railway`
