@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/talinbansal23?theme=dark&font=baloo&extension=null" />
+  [LeetCode Stats](https://leetcode.card.workers.dev/talinbansal23?theme=dark&font=baloo&extension=null)
 </p>
 
 ---
