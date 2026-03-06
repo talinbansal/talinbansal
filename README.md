@@ -4,6 +4,10 @@
   Aspiring Fullstack Developer | Passionate About Building Real-World Tools | Python • React • TypeScript
 </p>
 
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/talinbansal23?theme=dark&font=baloo&extension=null" />
+</p>
+
 ---
 
 ### 🔍 About Me
