@@ -43,17 +43,20 @@ Here are a few projects I'm proud of:
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-`Python` • `Go` • `PHP` •`JavaScript` • `TypeScript` • `HTML/CSS` • `SQL` 
+**Languages**  
+Python • Go • TypeScript • JavaScript • PHP • SQL • HTML/CSS
 
-**Frameworks/Tools:**  
-`React` • `Node.js` • `Next.js` • `Express.js` • `Flask` • `Django` • `FastAPI` • `Bootstrap` • `Tailwind CSS` • `Fiber` • `Redis` • `Zustand`
+**Frameworks & Libraries**  
+React • Next.js • Node.js • Express.js • FastAPI • Flask • Django • Fiber • Tailwind CSS • Zustand
 
-**Databases:**  
-`MySQL` • `SQLite` • `PostgreSQL`
+**Databases & Messaging**   
+PostgreSQL • MySQL • SQLite • Redis • AWS SQS
 
-**AI & Cloud Technologies:**                                                                                                                                                                  
-`AWS` • `Render` • `FAISS` • `Hugging Face Transformers` • `Sentence Transformers` •
+**Cloud & Infrastructure** 
+AWS • S3 • RDS • Render • WebSockets • PostgreSQL LISTEN/NOTIFY
+
+**AI / Machine Learning** 
+OpenAI API • FAISS • Hugging Face Transformers • Sentence Transformers
 
 ---
 
