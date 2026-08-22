@@ -49,13 +49,13 @@ Python • Go • TypeScript • JavaScript • PHP • SQL • HTML/CSS
 **Frameworks & Libraries**  
 React • Next.js • Node.js • Express.js • FastAPI • Flask • Django • Fiber • Tailwind CSS • Zustand
 
-**Databases & Messaging**   
+**Databases & Messaging**  
 PostgreSQL • MySQL • SQLite • Redis • AWS SQS
 
-**Cloud & Infrastructure** 
+**Cloud & Infrastructure**  
 AWS • S3 • RDS • Render • WebSockets • PostgreSQL LISTEN/NOTIFY
 
-**AI / Machine Learning** 
+**AI / Machine Learning**  
 OpenAI API • FAISS • Hugging Face Transformers • Sentence Transformers
 
 ---
