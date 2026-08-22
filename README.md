@@ -12,12 +12,16 @@
 
 ### 🔍 About Me
 
-I'm a developer with a strong interest in building end-to-end applications, from clean frontend interfaces to scalable backend logic. Currently exploring better ways to structure and automate systems through real-world projects.
+I'm a software developer and University of Waterloo student interested in building end-to-end applications and scalable backend systems.
 
-- ☁️ Dipping deeper into cloud services like AWS and Firebase, aiming to make apps that scale and survive the real world
-- 📌 Looking for **Fullstack/Software Development internships** (Summer 2026)
-- 📫 Reach me at: **tbansal@uwaterloo.ca**
+I enjoy working across the stack — from polished frontend experiences to backend architecture, asynchronous processing, databases, and cloud infrastructure.
 
+- ⚙️ Interested in backend engineering, distributed systems, and software architecture
+- ☁️ Building with AWS, PostgreSQL, Redis, SQS, and S3
+- 🧠 Exploring AI/ML integration into real-world applications
+- 🚀 Enjoy designing systems around asynchronous processing, event-driven architecture, and real-time communication
+- 📫 Reach me at: tbansal@uwaterloo.ca
+  
 ---
 
 ### 🚀 Projects
