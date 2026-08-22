@@ -4,17 +4,13 @@
   Aspiring Fullstack Developer | Passionate About Building Real-World Tools | Python • React • TypeScript
 </p>
 
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/talinbansal23?theme=dark&font=baloo&extension=null" />
-</p>
-
 ---
 
 ### 🔍 About Me
 
 I'm a software developer and University of Waterloo student interested in building end-to-end applications and scalable backend systems.
 
-I enjoy working across the stack — from polished frontend experiences to backend architecture, asynchronous processing, databases, and cloud infrastructure.
+I enjoy working across the stack from polished frontend experiences to backend architecture, asynchronous processing, databases, distributed systems and cloud infrastructure.
 
 - ⚙️ Interested in backend engineering, distributed systems, and software architecture
 - ☁️ Building with AWS, PostgreSQL, Redis, SQS, and S3
