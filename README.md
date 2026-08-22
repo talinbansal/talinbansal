@@ -24,7 +24,7 @@ I'm a developer with a strong interest in building end-to-end applications, from
 
 Here are a few projects I'm proud of:
 
-- 💼 **[JobSync – AI-Powered Job Application Dashboard](https://github.com/talinbansal/Jobsync)**
+- 💼 **[JobSync – AI-Powered Job Application Dashboard](https://github.com/talinbansal/Jobsync)**  
   A full-stack job application platform built with Next.js, TypeScript, Go, PostgreSQL, AWS, Redis, and OpenAI. Features AI-powered resume/job evaluation, real-time application status updates,  job organization, and automated application workflows. Uses a transactional outbox pattern, PostgreSQL LISTEN/NOTIFY, AWS SQS, Redis Pub/Sub, WebSockets, and concurrent Go workers to
 
 - 🍿 **[PopcornPick – AI Movie Recommendation App](https://github.com/talinbansal/Movie-Recommender)**                                                                                           
