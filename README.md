@@ -8,7 +8,7 @@
 
 ### 🔍 About Me
 
-I'm a software developer and University of Waterloo student interested in building end-to-end applications and scalable backend systems.
+I'm a software engineer and University of Waterloo student interested in building end-to-end applications and scalable backend systems.
 
 I enjoy working across the stack from polished frontend experiences to backend architecture, asynchronous processing, databases, distributed systems and cloud infrastructure.
 
