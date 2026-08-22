@@ -24,7 +24,10 @@ I'm a developer with a strong interest in building end-to-end applications, from
 
 Here are a few projects I'm proud of:
 
-- 🍿 [PopcornPick – AI Movie Recommendation App](https://github.com/talinbansal/Movie-Recommender)                                                                                           
+- 💼 **[JobSync – AI-Powered Job Application Dashboard](https://github.com/talinbansal/Jobsync)**
+  A full-stack job application platform built with Next.js, TypeScript, Go, PostgreSQL, AWS, Redis, and OpenAI. Features AI-powered resume/job evaluation, real-time application status updates,  job organization, and automated application workflows. Uses a transactional outbox pattern, PostgreSQL LISTEN/NOTIFY, AWS SQS, Redis Pub/Sub, WebSockets, and concurrent Go workers to
+
+- 🍿 **[PopcornPick – AI Movie Recommendation App](https://github.com/talinbansal/Movie-Recommender)**                                                                                           
   A full-stack movie discovery platform that uses semantic embeddings and FAISS vector search to recommend similar films. Features user authentication, watchlists, ratings, and a modern React +    TypeScript UI, deployed with FastAPI and PostgreSQL on Render.
 
 - 🔁 **[Automated File Organizer Monitor](https://github.com/talinbansal/Automated-File-Organizer-Monitor)**  
@@ -41,16 +44,16 @@ Here are a few projects I'm proud of:
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` • `PHP` •`JavaScript` • `TypeScript` • `HTML/CSS` • `SQL` • `Bash` 
+`Python` • `Go` • `PHP` •`JavaScript` • `TypeScript` • `HTML/CSS` • `SQL` 
 
 **Frameworks/Tools:**  
-`React` • `Node.js` • `Next.js` • `Express.js` • `Flask` • `Django` • `FastAPI` • `Bootstrap` • `Tailwind CSS`
+`React` • `Node.js` • `Next.js` • `Express.js` • `Flask` • `Django` • `FastAPI` • `Bootstrap` • `Tailwind CSS` • `Fiber` • `Redis` • `Zustand`
 
 **Databases:**  
-`MySQL` • `SQLite` • `PostgreSQL`• `Git`
+`MySQL` • `SQLite` • `PostgreSQL`
 
 **AI & Cloud Technologies:**                                                                                                                                                                  
-`AWS` • `FAISS` • `Hugging Face Transformers` • `Sentence Transformers` • `Render` • `Railway`
+`AWS` • `Render` • `FAISS` • `Hugging Face Transformers` • `Sentence Transformers` •
 
 ---
 
